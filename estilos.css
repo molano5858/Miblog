@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+
+
+.section{
+    width: 50%;
+    padding: 30px 50px;
+    border-radius: 16px;
+    text-align: center;
+    margin:20px auto;
+    
+}
+
+.section-1{
+    background-color: lightgreen;
+    color:white;
+    font-size: 32px;
+}
